@@ -2,13 +2,13 @@
 
 YouTubeVideo resource (views/likes/duration) — pairs with the compose queue for AI-drafted posts.
 
-- **Source:** https://github.com/fadymondy/media
+- **Source:** https://github.com/togo-framework/youtube
 - **Reference app:** https://fadymondy.com
 
 ## Install
 
 ```bash
-togo install fadymondy/media
+togo install togo-framework/youtube
 ```
 
 The plugin self-registers on blank-import (no manual wiring). See the top-level

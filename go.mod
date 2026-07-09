@@ -1,4 +1,4 @@
-module github.com/fadymondy/media
+module github.com/togo-framework/youtube
 
 go 1.26.4
 
